@@ -28,6 +28,7 @@ int main(){
     printf("subtracao = %i - %i = %.2f\n", b , a, subtracao);
     printf("divisao = %i / %i = %.2f \n", a , b, divisao);
     printf("multiplicacao = %i * %i = %i\n", b , a, multiplicacao);
+    printf("a^2 = %i e b^2 = %i \n", a*a , b*b);
     return 0;
 }
 
